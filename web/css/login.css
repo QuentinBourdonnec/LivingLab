@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+	font-family: "Candlescript Demo Version";
+	src: url('../font/Candlescript Demo Version.otf');
+	
+}
+h1{
+	font-size:1500%;
+	text-align:center;
+	color:#17B02E;
+	font-family:"Candlescript Demo Version";
+	
+}
+
+

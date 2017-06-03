@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	font-family: "Candlescript Demo Version";
+	src: url('../font/Candlescript Demo Version.otf');
+	
+}
+h1{
+	font-size:1200%;
+	text-align:center;
+	color:#17B02E;
+	font-family:"Candlescript Demo Version";
+	
+}
+#question{
+	width:40%;
+	margin-left:35%;
+	margin-top:10%;
+}
+#mouv{
+	margin-left:3%;
+}
+#MOUV{
+	margin-left:6%;
+	width:35%;
+}
+#mouve{
+	padding-top:10%;
+	
+}
+.mouv{
+	margin-left:35%;
+	margin-top:5%;
+	
+}
+.remonté{
+	margin-top:1%;
+	margin-left:5%;
+}
+.ligne{
+	display:inline-block;
+	width:35%;
+	
+}
